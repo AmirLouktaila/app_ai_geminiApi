@@ -4,13 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+app use api gemini 
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot:
+![pic1](https://i.ibb.co/k2LsnkPk/Screenshot-1748040940.png)
+![pic2](https://i.ibb.co/5gW85ZZT/Screenshot-1748041034.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
